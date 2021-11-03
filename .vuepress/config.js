@@ -2,6 +2,7 @@ module.exports = {
   "title": "stepPitCollection",
   "description": "吾生之有涯然吾道无涯",
   "dest": "public",
+  "base": "/uniapp-go/",
   "head": [
     [
       "link",
